@@ -39,7 +39,7 @@
     "homepage": "https://github.com/Abdulmumin3/Portfolio-project.git"
   },
   "devDependencies": {
-    "g-pages": "^4.0.0"
+    "gh-pages": "^4.0.0"
   }
    
   }
